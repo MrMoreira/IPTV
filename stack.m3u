@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Canais | Abertos" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" ,Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN BRASIL HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Red Bull TV³
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png" ,CNN BRASIL HD
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/ZgkjyhQ.png" ,DISNEY CHANNEL
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8
+
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/8F7awsP.jpg" ,DISNEY JR
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8
+
