@@ -18,9 +18,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" ,Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN BRASIL HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
-
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Red Bull TV³
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
