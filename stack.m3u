@@ -1,32 +1,19 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n31rk9s2wrvnv7jm"
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Abertos" tvg-shift="-3",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio de Janeiro
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="Religioso",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Canais | Abertos" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" ,Globo RJ HD
+#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Abertos" tvg-shift="-3",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Red Bull TV³
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="SBTSaoPaulo.br(m3u4u)" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="Abertos" tvg-shift="-3",SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
 
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png" ,CNN BRASIL HD
+#EXTINF:-1 tvg-id="CNNBrasil.br(m3u4u)" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Notícias" tvg-shift="-3",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/ZgkjyhQ.png" ,DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyJuniorBrazil.br(m3u4u)" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Infantis" tvg-shift="-3",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8
 
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/8F7awsP.jpg" ,DISNEY JR
+#EXTINF:-1 tvg-id="DisneyJuniorBrazil.br(m3u4u)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantis" tvg-shift="-3",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8
-
